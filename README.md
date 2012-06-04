@@ -9,3 +9,7 @@ This is the human judgment dataset that contains ratings of 32 computer science 
 Direct link: 
 
     https://github.com/downloads/beibeiyang/semcourse/semcourse.tar.gz
+    
+The dataset is following the GNU general public license:
+
+    http://www.gnu.org/copyleft/gpl.html
