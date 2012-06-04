@@ -10,6 +10,6 @@ Direct link:
 
     https://github.com/downloads/beibeiyang/semcourse/semcourse.tar.gz
     
-The dataset is following the GNU general public license:
+The dataset is following the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License:
 
-    http://www.gnu.org/copyleft/gpl.html
+    http://creativecommons.org/licenses/by-nc-sa/3.0/
